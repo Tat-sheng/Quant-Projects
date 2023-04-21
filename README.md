@@ -1,8 +1,8 @@
 
 
-Contents 
+<strong>Projects</strong>.
 
-- Final Pillars
-        Includes 3 folders each containing analysis on a research area
-- Final App
-        Includes a full E2E pipeline to process options data, instructions for use in the report.
+💡 Project 1
+        📈 Pillar 1: Implied volatility with neural networks
+        📈 Pillar 2: Bitcoin option pricing with neural networks
+        📈 Pillar 3: Big data classification with neural networks
