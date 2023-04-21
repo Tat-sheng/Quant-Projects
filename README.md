@@ -3,6 +3,6 @@
 <strong>Projects</strong>.
 
 <br/>💡 Project 1 &nbsp; [App here](https://tat-sheng-neural-network-app-final-appmain-b1rvrk.streamlit.app/)
-<br/>📈 Pillar 1: Implied volatility with neural networks &nbsp;
-<br/>📈 Pillar 2: Bitcoin option pricing with neural networks &nbsp;
-<br/>📈 Pillar 3: Big data classification with neural networks
+<br/>&nbsp;📈 Pillar 1: SP500 / VIX Implied volatility with neural networks &nbsp;
+<br/>&nbsp;📈 Pillar 2: BTC / ETH option pricing with neural networks &nbsp;
+<br/>&nbsp;📈 Pillar 3: Lending club classification with neural networks
